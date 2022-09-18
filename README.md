@@ -1,4 +1,4 @@
-# generative_adversarial_network
+# Generative Adversarial Network
 ## TEXT TO IMAGE GENERATION USING STACKED GENERATIVE ADVERSARIAL NETWORKS
 
 ## Objectives
